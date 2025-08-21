@@ -10,7 +10,7 @@ Experimented with multiple algorithms including Random Forest, CatBoost
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/lead-conversion-prediction.git
++ git clone https://github.com/Thama-Mabatha/Machine-Learning.git
 cd lead-conversion-prediction
 pip install -r requirements.txt
 
